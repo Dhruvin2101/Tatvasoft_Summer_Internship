@@ -1,0 +1,17 @@
+D:\Virtual-Community-Support-main\Mission\Mission.Repositories\bin\Debug\net8.0\Mission.Repositories.deps.json
+D:\Virtual-Community-Support-main\Mission\Mission.Repositories\bin\Debug\net8.0\Mission.Repositories.runtimeconfig.json
+D:\Virtual-Community-Support-main\Mission\Mission.Repositories\bin\Debug\net8.0\Mission.Repositories.dll
+D:\Virtual-Community-Support-main\Mission\Mission.Repositories\bin\Debug\net8.0\Mission.Repositories.pdb
+D:\Virtual-Community-Support-main\Mission\Mission.Repositories\bin\Debug\net8.0\Mission.Entities.dll
+D:\Virtual-Community-Support-main\Mission\Mission.Repositories\bin\Debug\net8.0\Mission.Entities.pdb
+D:\Virtual-Community-Support-main\Mission\Mission.Repositories\obj\Debug\net8.0\Mission.Repositories.csproj.AssemblyReference.cache
+D:\Virtual-Community-Support-main\Mission\Mission.Repositories\obj\Debug\net8.0\Mission.Repositories.GeneratedMSBuildEditorConfig.editorconfig
+D:\Virtual-Community-Support-main\Mission\Mission.Repositories\obj\Debug\net8.0\Mission.Repositories.AssemblyInfoInputs.cache
+D:\Virtual-Community-Support-main\Mission\Mission.Repositories\obj\Debug\net8.0\Mission.Repositories.AssemblyInfo.cs
+D:\Virtual-Community-Support-main\Mission\Mission.Repositories\obj\Debug\net8.0\Mission.Repositories.csproj.CoreCompileInputs.cache
+D:\Virtual-Community-Support-main\Mission\Mission.Repositories\obj\Debug\net8.0\Mission..7EFB1ED9.Up2Date
+D:\Virtual-Community-Support-main\Mission\Mission.Repositories\obj\Debug\net8.0\Mission.Repositories.dll
+D:\Virtual-Community-Support-main\Mission\Mission.Repositories\obj\Debug\net8.0\refint\Mission.Repositories.dll
+D:\Virtual-Community-Support-main\Mission\Mission.Repositories\obj\Debug\net8.0\Mission.Repositories.pdb
+D:\Virtual-Community-Support-main\Mission\Mission.Repositories\obj\Debug\net8.0\Mission.Repositories.genruntimeconfig.cache
+D:\Virtual-Community-Support-main\Mission\Mission.Repositories\obj\Debug\net8.0\ref\Mission.Repositories.dll
